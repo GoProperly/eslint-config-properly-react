@@ -18,17 +18,11 @@ jobs:
           scope: '@goproperly'
       - name: Install
         run: npm ci
-        env:
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Lint
         run: npm run lint
       - name: Test
         run: npm run test
-#      - name: Release
-#        env:
-#          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-#        run: npm run release
-#      - name: Publish
-#        env:
-#          NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
-#        run: npm publish
+      - name: Release & Publish
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+        run: npm run release
