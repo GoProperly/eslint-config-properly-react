@@ -10,7 +10,7 @@
     "release": "semantic-release"
   },
   "author": "Gavin Sharp <gavin@goproperly.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "files": [
     "index.js"
   ],
