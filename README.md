@@ -1,13 +1,7 @@
-# Private Package
+# Properly ESLint React Config
 
-How to fork this template:
-1. Update this `README.md`
-1. Update metadata in package.json
-    - `name`
-    - `description`
-    - `repository`
-1. Add code
-    - Update the `files` array in `package.json` accordingly
-1. Add tests
-    - Update the `test` command in `package.json`
-1. Once everything is updated and pushed, un-comment the release/publish steps in `.github/workflows/release_and_publish.yml`
+Built on top of [`eslint-config-properly-base`](https://github.com/GoProperly/eslint-config-properly-base) (which is in turn based on [`eslint-config-airbnb-base`](https://github.com/airbnb/javascript/blob/master/packages/eslint-config-airbnb-base/)).
+
+Includes:
+  - `eslint-plugin-jest` with its recommended config (via `eslint-config-properly-base`)
+  - `eslint-config/airbnb/hooks`
