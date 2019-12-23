@@ -3,6 +3,7 @@ module.exports = {
     '@goproperly/eslint-config-properly-base',
     'airbnb',
     'airbnb/hooks',
+    'prettier/react',
   ],
   env: {
     browser: true,
