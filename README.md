@@ -1,4 +1,4 @@
-# Properly ESLint React Config
+# Properly React ESLint Config
 
 An ESLint configuration for use by React web applications.
 
@@ -13,10 +13,10 @@ Includes:
 
 See https://github.com/GoProperly/template-web-app/pull/61/files for an example. Basically:
 1. Make sure your project is [configured to use the GitHub Package Registry](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages#installing-a-package)
-1. Install this package:
+1. Install this package along with `eslint` and `prettier`:
 
-    `npm install --save-dev @goproperly/eslint-config-properly-react`
-1. Update your project's ESLint configuration to extend this base config:
+    `npm install --save-dev @goproperly/eslint-config-properly-base eslint prettier`
+1. Extend this config in your project's [ESLint configuration](https://eslint.org/docs/user-guide/configuring):
     ```
     {
       "extends": ["@goproperly/eslint-config-properly-react"]
