@@ -1,32 +1,39 @@
 {
   "name": "@goproperly/eslint-config-properly-react",
-  "version": "2.0.13",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"No tests yet!\" && exit 0",
-    "lint": "eslint .",
-    "lint:fix": "eslint --fix . || true",
-    "release": "semantic-release"
-  },
-  "author": "Gavin Sharp <gavin@goproperly.com>",
+  "description": "React ESLint config used by Properly",
   "license": "MIT",
+  "author": "Gavin Sharp <gavin@goproperly.com>",
+  "homepage": "https://github.com/GoProperly/eslint-config-properly-react#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoProperly/eslint-config-properly-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GoProperly/eslint-config-properly-react/issues"
+  },
+  "version": "2.0.13",
+  "main": "index.js",
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "commit": "git-cz",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix . || true",
+    "release": "semantic-release",
+    "test": "echo \"No tests yet!\" && exit 0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
   "dependencies": {
     "@goproperly/eslint-config-properly-base": "^1.0.13",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-react-hooks": "^2.3.0"
-  },
-  "devDependencies": {
-    "@semantic-release/changelog": "^3.0.6",
-    "@semantic-release/git": "^7.0.18",
-    "eslint": "^6.8.0",
-    "prettier": "^1.19.1",
-    "semantic-release": "^15.14.0"
   },
   "peerDependencies": {
     "eslint": "^6.8.0",
@@ -37,11 +44,36 @@
     "eslint-plugin-react-hooks": "^2.3.0",
     "prettier": "^1.19.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GoProperly/eslint-config-properly-react.git"
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.4",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@semantic-release/changelog": "^3.0.6",
+    "@semantic-release/git": "^7.0.18",
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.0.2",
+    "eslint": "^6.8.0",
+    "husky": "^4.0.6",
+    "lint-staged": "^10.0.1",
+    "prettier": "^1.19.1",
+    "semantic-release": "^15.14.0"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{css,json,md}": [
+      "prettier --write",
+      "git add"
+    ],
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
   }
 }
