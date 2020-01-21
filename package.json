@@ -1,20 +1,24 @@
 {
   "name": "@goproperly/eslint-config-properly-react",
-  "version": "2.0.13",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "commit": "git-cz",
-    "test": "echo \"No tests yet!\" && exit 0",
-    "lint": "eslint .",
-    "lint:fix": "eslint --fix . || true",
-    "release": "semantic-release"
-  },
-  "author": "Gavin Sharp <gavin@goproperly.com>",
   "license": "MIT",
+  "author": "Gavin Sharp <gavin@goproperly.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoProperly/eslint-config-properly-react.git"
+  },
+  "version": "2.0.13",
+  "main": "index.js",
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "commit": "git-cz",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix . || true",
+    "release": "semantic-release",
+    "test": "echo \"No tests yet!\" && exit 0"
+  },
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
@@ -27,6 +31,15 @@
     "eslint-plugin-react": "^7.17.0",
     "eslint-plugin-react-hooks": "^2.3.0"
   },
+  "peerDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jest": "^23.2.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react-hooks": "^2.3.0",
+    "prettier": "^1.19.1"
+  },
   "devDependencies": {
     "@commitlint/cli": "^8.3.4",
     "@commitlint/config-conventional": "^8.3.4",
@@ -38,19 +51,6 @@
     "husky": "^4.0.6",
     "prettier": "^1.19.1",
     "semantic-release": "^15.14.0"
-  },
-  "peerDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-prettier": "^6.9.0",
-    "eslint-plugin-import": "^2.19.1",
-    "eslint-plugin-jest": "^23.2.0",
-    "eslint-plugin-prettier": "^3.1.2",
-    "eslint-plugin-react-hooks": "^2.3.0",
-    "prettier": "^1.19.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GoProperly/eslint-config-properly-react.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
