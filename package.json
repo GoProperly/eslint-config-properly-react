@@ -55,7 +55,7 @@
     "husky": "^4.2.1",
     "lint-staged": "^10.0.8",
     "prettier": "^1.19.1",
-    "semantic-release": "^17.0.2"
+    "semantic-release": "^17.0.4"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
