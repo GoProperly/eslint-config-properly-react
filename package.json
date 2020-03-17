@@ -29,7 +29,7 @@
     }
   },
   "dependencies": {
-    "@goproperly/eslint-config-properly-base": "^1.0.15",
+    "@goproperly/eslint-config-properly-base": "^1.0.16",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
