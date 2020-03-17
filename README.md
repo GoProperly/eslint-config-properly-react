@@ -15,7 +15,7 @@ See https://github.com/GoProperly/template-web-app/pull/61/files for an example.
 1. Make sure your project is [configured to use the GitHub Package Registry](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages#installing-a-package)
 1. Install this package along with `eslint` and `prettier`:
 
-    `npm install --save-dev @goproperly/eslint-config-properly-base eslint prettier`
+    `npm install --save-dev @goproperly/eslint-config-properly-react eslint prettier`
 1. Extend this config in your project's [ESLint configuration](https://eslint.org/docs/user-guide/configuring):
     ```
     {
