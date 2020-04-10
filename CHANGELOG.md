@@ -1,3 +1,10 @@
+### [2.1.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.1.0...v2.1.1) (2020-04-10)
+
+
+### Bug Fixes
+
+* update to Prettier 2.0, bump peerDep ([d7f9655](https://github.com/GoProperly/eslint-config-properly-react/commit/d7f96552043215562c0909214332b90aaec5eb56))
+
 ## [2.1.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.0.15...v2.1.0) (2020-04-02)
 
 ### Features
