@@ -1,3 +1,11 @@
+### [2.2.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.2.0...v2.2.1) (2020-07-02)
+
+
+### Bug Fixes
+
+* **deps:** bump @goproperly/eslint-config-properly-base ([8f052c1](https://github.com/GoProperly/eslint-config-properly-react/commit/8f052c1101d956e547235b54061539aee375e644))
+* **deps:** bump eslint-config-airbnb from 18.1.0 to 18.2.0 ([038e74d](https://github.com/GoProperly/eslint-config-properly-react/commit/038e74d3c574984c100343574dadbdaa4af48fd5))
+
 ## [2.2.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.1.6...v2.2.0) (2020-07-02)
 
 
