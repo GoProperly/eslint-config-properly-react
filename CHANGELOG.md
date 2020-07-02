@@ -1,3 +1,15 @@
+## [2.2.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.1.6...v2.2.0) (2020-07-02)
+
+
+### Features
+
+* update eslint-plugin-react-hooks to 4.0.5 ([d5e1848](https://github.com/GoProperly/eslint-config-properly-react/commit/d5e18484d023eda200ae64ec830f88a30cd00928))
+
+
+### Bug Fixes
+
+* update eslint peerDependency ([68690c3](https://github.com/GoProperly/eslint-config-properly-react/commit/68690c30d84a6a3257981e241fd32771f9c074aa))
+
 ### [2.1.6](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.1.5...v2.1.6) (2020-07-01)
 
 
