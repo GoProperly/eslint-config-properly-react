@@ -1,3 +1,10 @@
+## [2.3.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.2.1...v2.3.0) (2020-07-06)
+
+
+### Features
+
+* add expectSaga to jest expect rule ([dd21361](https://github.com/GoProperly/eslint-config-properly-react/commit/dd21361124d9f8dcbcaa93df6ae8920665c40f19))
+
 ### [2.2.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.2.0...v2.2.1) (2020-07-02)
 
 
