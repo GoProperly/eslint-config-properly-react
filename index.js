@@ -11,5 +11,11 @@ module.exports = {
   rules: {
     // Don't want to rename all our files
     'react/jsx-filename-extension': ['error', { extensions: ['.js', '.jsx'] }],
+    'jest/expect-expect': [
+      'warn',
+      {
+        assertFunctionNames: ['expect', 'expectSaga'],
+      },
+    ],
   },
 };
