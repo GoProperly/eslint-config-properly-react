@@ -1,3 +1,10 @@
+### [2.3.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.0...v2.3.1) (2020-08-02)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm from 6.14.5 to 6.14.7 ([20ccc6d](https://github.com/GoProperly/eslint-config-properly-react/commit/20ccc6da2ce1cddd19911ab53050cd404ad7351f))
+
 ## [2.3.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.2.1...v2.3.0) (2020-07-06)
 
 
