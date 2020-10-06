@@ -1,3 +1,10 @@
+### [2.3.4](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.3...v2.3.4) (2020-10-06)
+
+
+### Bug Fixes
+
+* **deps:** run clean npm install to update/optimize indirect dependencies ([bf616d7](https://github.com/GoProperly/eslint-config-properly-react/commit/bf616d713b40a1a57d90712c1fe8a3d00af10589))
+
 ### [2.3.3](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.2...v2.3.3) (2020-10-02)
 
 
