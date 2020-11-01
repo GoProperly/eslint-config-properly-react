@@ -1,3 +1,13 @@
+### [2.3.5](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.4...v2.3.5) (2020-11-01)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm-user-validate from 1.0.0 to 1.0.1 ([348d7ee](https://github.com/GoProperly/eslint-config-properly-react/commit/348d7ee877cc19b9d7bbbaca15c3f056e2c5d4a4))
+* **deps:** bump @goproperly/eslint-config-properly-base ([c2893a5](https://github.com/GoProperly/eslint-config-properly-react/commit/c2893a541907a52153aa4cd1459e5688213ec484))
+* **deps:** bump eslint-config-prettier from 6.12.0 to 6.15.0 ([50edc04](https://github.com/GoProperly/eslint-config-properly-react/commit/50edc04c16fb6bd77b94494b75e9cc3998583120))
+* **deps:** bump eslint-plugin-react from 7.21.3 to 7.21.5 ([0f1cdf3](https://github.com/GoProperly/eslint-config-properly-react/commit/0f1cdf3c88b399096b0650d46d96c1c92f67b84f))
+
 ### [2.3.4](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.3...v2.3.4) (2020-10-06)
 
 
