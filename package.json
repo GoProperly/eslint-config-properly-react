@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/GoProperly/eslint-config-properly-react/issues"
   },
-  "version": "2.3.7",
+  "version": "2.3.8",
   "main": "index.js",
   "files": [
     "index.js"

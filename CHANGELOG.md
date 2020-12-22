@@ -1,3 +1,11 @@
+### [2.3.8](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.7...v2.3.8) (2020-12-22)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump ini from 1.3.5 to 1.3.8 ([5d67477](https://github.com/GoProperly/eslint-config-properly-react/commit/5d6747755b96fa11bc91011b73a84ae2cb82ee86))
+* **deps:** bump eslint-config-prettier from 6.15.0 to 7.1.0 ([f773cf2](https://github.com/GoProperly/eslint-config-properly-react/commit/f773cf220ee9c6a2e6902d32edc2d867adaa333d))
+
 ### [2.3.7](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.6...v2.3.7) (2020-12-01)
 
 
