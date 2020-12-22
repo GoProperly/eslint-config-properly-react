@@ -1,3 +1,10 @@
+### [2.3.9](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.8...v2.3.9) (2020-12-22)
+
+
+### Bug Fixes
+
+* **deps:** bump @goproperly/eslint-config-properly-base ([35a278b](https://github.com/GoProperly/eslint-config-properly-react/commit/35a278b32f2c233316ad2f3df36dafea4e6a8dcf))
+
 ### [2.3.8](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.7...v2.3.8) (2020-12-22)
 
 
