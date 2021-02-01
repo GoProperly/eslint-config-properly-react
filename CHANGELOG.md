@@ -1,3 +1,10 @@
+### [2.3.12](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.11...v2.3.12) (2021-02-01)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-config-prettier from 7.1.0 to 7.2.0 ([229c478](https://github.com/GoProperly/eslint-config-properly-react/commit/229c478d81e902263a4ae6b81e66a3612ee2ed37))
+
 ### [2.3.11](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.10...v2.3.11) (2021-01-01)
 
 
