@@ -1,3 +1,10 @@
+## [2.4.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.13...v2.4.0) (2021-02-24)
+
+
+### Features
+
+* update eslint-config-properly-base ([1bcbbac](https://github.com/GoProperly/eslint-config-properly-react/commit/1bcbbac9ea5983bb516fee4610ff5bd000af252a))
+
 ### [2.3.13](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.12...v2.3.13) (2021-02-01)
 
 
