@@ -4,7 +4,7 @@ module.exports = {
     'airbnb/hooks',
     '@goproperly/eslint-config-properly-base',
     'prettier/react',
-    'plugin:testing-library/recommended',
+    'plugin:testing-library/react',
   ],
   env: {
     browser: true,
@@ -18,6 +18,5 @@ module.exports = {
         assertFunctionNames: ['expect', 'expectSaga'],
       },
     ],
-    'testing-library/no-debug': 'warn',
   },
 };
