@@ -1,3 +1,12 @@
+### [2.4.2](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.4.1...v2.4.2) (2021-06-09)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump handlebars from 4.7.6 to 4.7.7 ([9be8d86](https://github.com/GoProperly/eslint-config-properly-react/commit/9be8d861b860ad22feb28af53755b9a02c35ea1b))
+* **deps:** [security] bump hosted-git-info from 2.8.8 to 2.8.9 ([531bbf1](https://github.com/GoProperly/eslint-config-properly-react/commit/531bbf17046e8963a4c39ad08f73d30373ae2cbd))
+* **deps:** [security] bump lodash from 4.17.20 to 4.17.21 ([0e6b25f](https://github.com/GoProperly/eslint-config-properly-react/commit/0e6b25f139154e278ac62dea6b934fa176b20c6e))
+
 ### [2.4.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.4.0...v2.4.1) (2021-06-09)
 
 
