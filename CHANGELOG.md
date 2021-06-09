@@ -1,3 +1,11 @@
+## [2.5.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.4.2...v2.5.0) (2021-06-09)
+
+
+### Features
+
+* add testing library eslint rules ([00da2ac](https://github.com/GoProperly/eslint-config-properly-react/commit/00da2acbdeeafd2f1adf24e7a25032651d53abe3))
+* use the `testing-libary/react` preset ([3fddcce](https://github.com/GoProperly/eslint-config-properly-react/commit/3fddcce9a924d16a1eec21debf1b9684f058b245))
+
 ### [2.4.2](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.4.1...v2.4.2) (2021-06-09)
 
 
