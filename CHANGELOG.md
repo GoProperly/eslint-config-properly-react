@@ -1,3 +1,11 @@
+### [2.4.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.4.0...v2.4.1) (2021-06-09)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump ssri from 6.0.1 to 6.0.2 ([fa92794](https://github.com/GoProperly/eslint-config-properly-react/commit/fa92794613b623473609c1a079fd2065de3fb6b2))
+* **deps:** [security] bump y18n from 4.0.0 to 4.0.3 ([f001078](https://github.com/GoProperly/eslint-config-properly-react/commit/f001078f1c90c5680737946ecf92097b20e02e18))
+
 ## [2.4.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.3.13...v2.4.0) (2021-02-24)
 
 
