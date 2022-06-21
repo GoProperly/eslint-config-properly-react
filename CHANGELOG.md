@@ -1,3 +1,10 @@
+## [2.6.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.5.0...v2.6.0) (2022-06-21)
+
+
+### Features
+
+* update base eslint package to include new jest-formatting plugin ([6c25b81](https://github.com/GoProperly/eslint-config-properly-react/commit/6c25b814532d5306305f22caceb8511edee88027))
+
 ## [2.5.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.4.2...v2.5.0) (2021-06-09)
 
 
