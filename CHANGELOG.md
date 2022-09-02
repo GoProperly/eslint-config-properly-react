@@ -1,3 +1,10 @@
+## [2.7.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.6.0...v2.7.0) (2022-09-02)
+
+
+### Features
+
+* update base linting rules to include "curly", update package lock format ([5809202](https://github.com/GoProperly/eslint-config-properly-react/commit/5809202e9a969fbea02dd744068124469b3bdab1))
+
 ## [2.6.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.5.0...v2.6.0) (2022-06-21)
 
 
