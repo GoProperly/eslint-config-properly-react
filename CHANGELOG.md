@@ -1,3 +1,10 @@
+### [2.7.2](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.1...v2.7.2) (2022-09-02)
+
+
+### Bug Fixes
+
+* **deps:** bump node-fetch from 2.6.1 to 2.6.7 ([be0b070](https://github.com/GoProperly/eslint-config-properly-react/commit/be0b07029cd9a542ed69b6fb9b75b517db860471))
+
 ### [2.7.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.0...v2.7.1) (2022-09-02)
 
 
