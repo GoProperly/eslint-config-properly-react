@@ -1,3 +1,11 @@
+### [2.7.4](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.3...v2.7.4) (2022-09-02)
+
+
+### Bug Fixes
+
+* update base config to 1.5.1, update npmrc to match www ([3b99785](https://github.com/GoProperly/eslint-config-properly-react/commit/3b997856ff8f962dbdba5ffbe9b59f02fbe2c6fe))
+* **deps:** bump eslint-plugin-react-hooks from 4.2.0 to 4.6.0 ([71e928b](https://github.com/GoProperly/eslint-config-properly-react/commit/71e928be28fffbac785e6cab55cc311705f1fae4))
+
 ### [2.7.3](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.2...v2.7.3) (2022-09-02)
 
 
