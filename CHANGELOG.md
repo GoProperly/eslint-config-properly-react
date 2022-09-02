@@ -1,3 +1,10 @@
+### [2.7.3](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.2...v2.7.3) (2022-09-02)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-plugin-import from 2.22.1 to 2.26.0 ([0ebaa13](https://github.com/GoProperly/eslint-config-properly-react/commit/0ebaa13b12e17a94388c13535094a885a085c0e9))
+
 ### [2.7.2](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.1...v2.7.2) (2022-09-02)
 
 
