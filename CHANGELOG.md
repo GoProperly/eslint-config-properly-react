@@ -1,3 +1,10 @@
+### [2.7.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.0...v2.7.1) (2022-09-02)
+
+
+### Bug Fixes
+
+* **deps:** bump trim-off-newlines from 1.0.1 to 1.0.3 ([4a0deb4](https://github.com/GoProperly/eslint-config-properly-react/commit/4a0deb4f30a3ddc620cb35c5f806e934ac8e7c58))
+
 ## [2.7.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.6.0...v2.7.0) (2022-09-02)
 
 
