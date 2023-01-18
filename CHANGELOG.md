@@ -1,3 +1,10 @@
+## [2.8.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.4...v2.8.0) (2023-01-18)
+
+
+### Features
+
+* add no-unstable-nested-components rule as an error ([ef3cf1f](https://github.com/GoProperly/eslint-config-properly-react/commit/ef3cf1fe06c8f9712d17ae4beb0db53149ee8aeb))
+
 ### [2.7.4](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.3...v2.7.4) (2022-09-02)
 
 
