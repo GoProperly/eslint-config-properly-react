@@ -1,3 +1,10 @@
+## [2.9.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.8.0...v2.9.0) (2023-02-21)
+
+
+### Features
+
+* **deps:** bump eslint-config-airbnb from 18.2.1 to 19.0.4 ([5e4a50c](https://github.com/GoProperly/eslint-config-properly-react/commit/5e4a50c3462c37a66b94954d1356019327bddf12))
+
 ## [2.8.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.7.4...v2.8.0) (2023-01-18)
 
 
