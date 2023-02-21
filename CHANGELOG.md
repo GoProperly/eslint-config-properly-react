@@ -1,3 +1,10 @@
+## [2.10.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.9.0...v2.10.0) (2023-02-21)
+
+
+### Features
+
+* **deps:** bump eslint-config-prettier from 7.2.0 to 8.5.0 ([fde38f2](https://github.com/GoProperly/eslint-config-properly-react/commit/fde38f2e9f6e9e6a8ebafdefe19c84b5d53ef8c1))
+
 ## [2.9.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.8.0...v2.9.0) (2023-02-21)
 
 
