@@ -18,6 +18,16 @@ module.exports = {
         assertFunctionNames: ['expect', 'expectSaga'],
       },
     ],
+    // Prefer arrow function definition style over others
+    'react/function-component-definition': [
+      'error',
+      {
+        namedComponents: 'arrow-function',
+        unnamedComponents: 'arrow-function',
+      },
+    ],
+    // Allow fragments if they have strings in them, e.g. <>{title</>. Valuable for TypeScript.
+    'react/jsx-no-useless-fragment': ['error', { allowExpressions: true }],
   },
   overrides: [
     {
