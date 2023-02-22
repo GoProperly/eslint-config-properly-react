@@ -1,3 +1,11 @@
+## [2.10.4](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.3...v2.10.4) (2023-02-22)
+
+
+### Bug Fixes
+
+* **deps:** bump semver-regex from 3.1.2 to 3.1.4 ([e6ea694](https://github.com/GoProperly/eslint-config-properly-react/commit/e6ea69428af90f93e0cfb3d441b3a16a6b82205e))
+* tweak function-component-definition and jsx-no-useless-fragment rules to suit our codebases ([16d557a](https://github.com/GoProperly/eslint-config-properly-react/commit/16d557ad4d885ece8869755442a1dd3d08459cd4))
+
 ## [2.10.3](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.2...v2.10.3) (2023-02-22)
 
 
