@@ -1,3 +1,10 @@
+## [2.10.2](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.1...v2.10.2) (2023-02-22)
+
+
+### Bug Fixes
+
+* isolate testing-library/react linting rules to test files only ([2ff3314](https://github.com/GoProperly/eslint-config-properly-react/commit/2ff3314adcedd35fbdd4aca3273d121a1592795b))
+
 ## [2.10.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.0...v2.10.1) (2023-02-22)
 
 
