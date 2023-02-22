@@ -1,3 +1,10 @@
+## [2.10.3](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.2...v2.10.3) (2023-02-22)
+
+
+### Bug Fixes
+
+* remove testing-library/react from default scope, it should only apply to test files ([8e0f205](https://github.com/GoProperly/eslint-config-properly-react/commit/8e0f205045ea0b8079255c446b9da2a5cd3267d8))
+
 ## [2.10.2](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.1...v2.10.2) (2023-02-22)
 
 
