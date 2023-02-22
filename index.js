@@ -4,7 +4,6 @@ module.exports = {
     'airbnb/hooks',
     '@goproperly/eslint-config-properly-base',
     'prettier',
-    'plugin:testing-library/react',
   ],
   env: {
     browser: true,
