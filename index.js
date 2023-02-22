@@ -20,4 +20,11 @@ module.exports = {
       },
     ],
   },
+  overrides: [
+    {
+      // Enable testing-library/react but only for test files
+      files: ['**/*.test.[jt]s?(x)'],
+      extends: ['plugin:testing-library/react'],
+    },
+  ],
 };
