@@ -1,3 +1,10 @@
+## [2.11.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.4...v2.11.0) (2023-02-23)
+
+
+### Features
+
+* update base config package, introduces func-style rule for function declarations ([c8e2e3f](https://github.com/GoProperly/eslint-config-properly-react/commit/c8e2e3f6a3d997d605daca0a5aeea5ec24b5d08d))
+
 ## [2.10.4](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.3...v2.10.4) (2023-02-22)
 
 
