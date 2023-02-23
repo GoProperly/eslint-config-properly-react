@@ -1,3 +1,10 @@
+## [2.11.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.11.0...v2.11.1) (2023-02-23)
+
+
+### Bug Fixes
+
+* update base package, allowing generators to be unnamed ([39eb764](https://github.com/GoProperly/eslint-config-properly-react/commit/39eb7642c18fad5f549db65e3c43b0ee699b06c8))
+
 ## [2.11.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.10.4...v2.11.0) (2023-02-23)
 
 
