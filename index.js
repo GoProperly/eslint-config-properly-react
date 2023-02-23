@@ -28,6 +28,8 @@ module.exports = {
     ],
     // Allow fragments if they have strings in them, e.g. <>{title</>. Valuable for TypeScript.
     'react/jsx-no-useless-fragment': ['error', { allowExpressions: true }],
+    // We're fine with prop spreading
+    'react/jsx-props-no-spreading': 'off',
   },
   overrides: [
     {
