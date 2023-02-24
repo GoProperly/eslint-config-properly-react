@@ -1,3 +1,10 @@
+## [2.12.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.11.1...v2.12.0) (2023-02-24)
+
+
+### Features
+
+* disable jsx-props-no-spreading rule, we are okay with spreading props ([c2d66d7](https://github.com/GoProperly/eslint-config-properly-react/commit/c2d66d7809324c72045441dc7ed36e34f5a28382))
+
 ## [2.11.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.11.0...v2.11.1) (2023-02-23)
 
 
