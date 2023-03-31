@@ -1,3 +1,10 @@
+## [2.13.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.12.0...v2.13.0) (2023-03-31)
+
+
+### Features
+
+* update eslint to v8 and jest support to v29 ([4f56c98](https://github.com/GoProperly/eslint-config-properly-react/commit/4f56c9830025dcd27689458da637582c77cfde95))
+
 ## [2.12.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.11.1...v2.12.0) (2023-02-24)
 
 
