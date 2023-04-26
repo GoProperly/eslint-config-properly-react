@@ -1,3 +1,10 @@
+## [2.13.2](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.13.1...v2.13.2) (2023-04-26)
+
+
+### Bug Fixes
+
+* update base linting ruleset and use Node 18 ([76cd096](https://github.com/GoProperly/eslint-config-properly-react/commit/76cd09633f1617b1b540e6b197e90adf2f4a8070))
+
 ## [2.13.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.13.0...v2.13.1) (2023-04-26)
 
 
