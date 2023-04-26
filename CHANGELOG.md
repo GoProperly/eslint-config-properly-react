@@ -1,3 +1,10 @@
+## [2.13.1](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.13.0...v2.13.1) (2023-04-26)
+
+
+### Bug Fixes
+
+* **.npmrc:** remove engine strict true from npmrc ([02d378f](https://github.com/GoProperly/eslint-config-properly-react/commit/02d378f5e9e2e88c68438d79a439e9c705854a94))
+
 ## [2.13.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.12.0...v2.13.0) (2023-03-31)
 
 
