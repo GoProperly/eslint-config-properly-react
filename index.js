@@ -2,8 +2,8 @@ module.exports = {
   extends: [
     'airbnb',
     'airbnb/hooks',
-    '@goproperly/eslint-config-properly-base',
     'prettier',
+    '@goproperly/eslint-config-properly-base',
   ],
   env: {
     browser: true,
