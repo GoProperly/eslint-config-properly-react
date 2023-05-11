@@ -1,3 +1,10 @@
+## [2.13.3](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.13.2...v2.13.3) (2023-05-11)
+
+
+### Bug Fixes
+
+* base config was being overwritten by prettier ([33bf016](https://github.com/GoProperly/eslint-config-properly-react/commit/33bf0165e1d21a0a00d88ab15b8cc8f9ee617d7b))
+
 ## [2.13.2](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.13.1...v2.13.2) (2023-04-26)
 
 
