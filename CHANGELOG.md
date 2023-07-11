@@ -1,3 +1,10 @@
+## [2.14.0](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.13.3...v2.14.0) (2023-07-11)
+
+
+### Features
+
+* update prettier to v3 ([e7c94a9](https://github.com/GoProperly/eslint-config-properly-react/commit/e7c94a9148f69a9eacfc07d37bb53d2e7b269f12))
+
 ## [2.13.3](https://github.com/GoProperly/eslint-config-properly-react/compare/v2.13.2...v2.13.3) (2023-05-11)
 
 
